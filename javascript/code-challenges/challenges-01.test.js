@@ -114,7 +114,7 @@ const addNumbers = (num, arr, times, callback) => {
   times.forEach((item) => {
     callback(arr,num);
   }
-  return arr;
+  //return item;
 
 };
 
